@@ -152,22 +152,6 @@ Credit-Fraud-Detection/
 ├── requirements.txt
 └── summary_report.md
 ```
-
----
-
-# How to Run
-
-1. Clone the Drive.
-2. Install the required libraries:
-
-```
-pip install -r requirements.txt
-```
-
-3. Place `creditcard.csv` in the project folder.
-4. Open the notebook.
-5. Run all cells.
-
 ---
 
 # Conclusion
